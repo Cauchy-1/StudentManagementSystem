@@ -1,1 +1,1 @@
-JavaWork  ---------StudentManagementSystem  --by Java
+StudentManagementSystem  --by Java
